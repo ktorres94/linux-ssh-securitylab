@@ -10,7 +10,7 @@ Analyze failed SSH logins, summarize them by source IP, apply safer SSH settings
 
 - Ubuntu virtual machine running OpenSSH and systemd journal logging
 - Test source: `127.0.0.1` (the same VM)
-- Controlled attempts against a deliberately invalid username on the author's own VM
+- Controlled attempts against a deliberately invalid username on the Ubuntu VM I created.
 - No external systems or real user accounts involved
 
 ## What I did
